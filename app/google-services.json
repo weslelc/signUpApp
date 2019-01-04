@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923226724874",
+    "firebase_url": "https://signupapp-6ad7d.firebaseio.com",
+    "project_id": "signupapp-6ad7d",
+    "storage_bucket": "signupapp-6ad7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923226724874:android:32b0ffde18d74a6b",
+        "android_client_info": {
+          "package_name": "com.example.wesleychen.signuppapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923226724874-8i14gn02p0b2iscvgtgpfm7tacsvdoqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wesleychen.signuppapp",
+            "certificate_hash": "927bce74c3b0d97337ac5dcdf9478cd99584e5e0"
+          }
+        },
+        {
+          "client_id": "923226724874-cqol51tunnrrivjg1fo40inn5e81ebq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXzA3rHhp6UyGd6vEW6BgcDWqjKPsFDGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923226724874-lglvtbfmtage3tebonjr6hpmh1nnfucc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
